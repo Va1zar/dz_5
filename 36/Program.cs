@@ -7,7 +7,7 @@ int[] NewArray(int size)
     int[] res = new int[size];
     for (int i = 0; i < size; i++)
     {
-        res[i] = new Random().Next(-10, 10);
+        res[i] = new Random().Next(-10, 101);
     }
     return res;
 }
