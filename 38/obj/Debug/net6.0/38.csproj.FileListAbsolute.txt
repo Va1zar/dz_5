@@ -1,0 +1,15 @@
+D:\учеба IT\git_education\dz5\38\bin\Debug\net6.0\38.exe
+D:\учеба IT\git_education\dz5\38\bin\Debug\net6.0\38.deps.json
+D:\учеба IT\git_education\dz5\38\bin\Debug\net6.0\38.runtimeconfig.json
+D:\учеба IT\git_education\dz5\38\bin\Debug\net6.0\38.dll
+D:\учеба IT\git_education\dz5\38\bin\Debug\net6.0\38.pdb
+D:\учеба IT\git_education\dz5\38\obj\Debug\net6.0\38.csproj.AssemblyReference.cache
+D:\учеба IT\git_education\dz5\38\obj\Debug\net6.0\38.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба IT\git_education\dz5\38\obj\Debug\net6.0\38.AssemblyInfoInputs.cache
+D:\учеба IT\git_education\dz5\38\obj\Debug\net6.0\38.AssemblyInfo.cs
+D:\учеба IT\git_education\dz5\38\obj\Debug\net6.0\38.csproj.CoreCompileInputs.cache
+D:\учеба IT\git_education\dz5\38\obj\Debug\net6.0\38.dll
+D:\учеба IT\git_education\dz5\38\obj\Debug\net6.0\refint\38.dll
+D:\учеба IT\git_education\dz5\38\obj\Debug\net6.0\38.pdb
+D:\учеба IT\git_education\dz5\38\obj\Debug\net6.0\38.genruntimeconfig.cache
+D:\учеба IT\git_education\dz5\38\obj\Debug\net6.0\ref\38.dll
